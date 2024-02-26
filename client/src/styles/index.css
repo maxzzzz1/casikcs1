@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: "Exo 2";
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
