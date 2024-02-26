@@ -10,6 +10,5 @@
 <img alt="42" src="https://img.freepik.com/premium-photo/number-42_2227-1094.jpg" width="100px" height="100px"/>
 <img alt="42" src="https://img.freepik.com/premium-photo/number-42_2227-1094.jpg" width="100px" height="100px"/>
 <img alt="42" src="https://img.freepik.com/premium-photo/number-42_2227-1094.jpg" width="100px" height="100px"/>
-<img alt="42" src="https://img.freepik.com/premium-photo/number-42_2227-1094.jpg" width="100px" height="100px"/>
-<img alt="42" src="https://img.freepik.com/premium-photo/number-42_2227-1094.jpg" width="80px" height="100px"/>
+
 </div>
